@@ -47,16 +47,18 @@
 .eee{
     position: fixed;
     top: 50px;
+    z-index: -2;
 }
 .eee2{
     position: fixed;
     top: 150px;
+    z-index: -2;
 }
 .backgroundvid{
     position: fixed;
     left: 0px;
-    width:100%;
+
 }
-#image{
-    width:100%;
+.esm{
+
 }
